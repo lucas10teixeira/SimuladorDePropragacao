@@ -5,6 +5,8 @@ Trabalho desenvolvido para a disciplina Algoritmos e Programação: Fundamentos.
 Eduardo Zandoná
 Lucas Teixeira
 Vitor Zandoná
+
+
 🚀 Como executar
 Este programa foi feito em linguagem C e pode ser executado no OnlineGDB ou em um editor como o VS Code (com compilador instalado).
 
